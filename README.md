@@ -5,7 +5,7 @@ Este repositorio contiene la prueba técnica de Alfatec.
 ## Requisitos ##
 
 Requisito                                                   | API
-------------------------------------------------------------|--------------------|--------------------
+------------------------------------------------------------|-------------------
 Crear un empleado                                           | :heavy_check_mark:
 Crear un departamento                                       | :heavy_check_mark:
 Listar varios empleados de un departamento                  | :heavy_check_mark:
