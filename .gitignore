@@ -1,0 +1,7 @@
+target/
+.classpath
+.project
+.settings/
+nb-configuration.xml
+pom.xml.2
+PruebaTecnicaBack_DANNY_SOLANO_11122018.zip
